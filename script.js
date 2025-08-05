@@ -65,7 +65,3 @@ function PlayGame(){
 }
 
 PlayGame()
-
-console.log("Human Score: "+humanScore +"   Computer score: "+computerScore)
-console.log()
-console.log("end")
